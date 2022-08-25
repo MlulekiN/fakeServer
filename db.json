@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Mandoza",
+      "title": "Nkalakatha",
+      "song-id": 3,
+      "rating": 5
+    },
+    {
+      "name": "Mapaputsi",
+      "title": "Kleva",
+      "song-id": 2,
+      "rating": 4.5
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
