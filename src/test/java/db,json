@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "name": "Mandoza",
+      "title": "Nkalakatha",
+      "song-id": 3,
+      "genre-id": 2
+    },
+    {
+      "name": "Mapaputsi",
+      "title": "Kleva",
+      "song-id": 2,
+      "genre-id": 1
+    },
+    {
+      "name": "Oskido",
+      "title": "Tembisa-Funk",
+      "song-id": 1,
+      "genre-id": 3
+    }
+  ],
+
+  "genre":
+  [
+    {
+      "id": 1,
+      "genre": "Kwaito"
+    },
+    {
+      "id": 2,
+      "genre": "Hip-Kwaito"
+    },
+    {
+      "id": 3,
+      "genre": "House"
+    }
+  ]
+}
